@@ -3,7 +3,7 @@
 #### I am Anabelly Montibeller
 ◉ Studying Python ◉
 
-![SUDIO](https://user-images.githubusercontent.com/100965426/226498224-fc51c95f-9fde-4efd-8966-e9f0a34cb5a1.gif)
+<img src=”![image](![SUDIO](https://user-images.githubusercontent.com/100965426/226499254-09b73ee3-f05d-4e91-990d-85fa3bfdecd8.gif)” height = "250" width = "550">
 
 __________________________________________________________________________________________
 My dear account 👶
