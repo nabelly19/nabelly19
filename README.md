@@ -1,6 +1,6 @@
-### Hi folks! 👋
+# Hi folks! 👋
 
-#### I am Anabelly Montibeller
+## I am Anabelly Montibeller
 ◉ Studying Python ◉
 
 ![SUDIO](https://user-images.githubusercontent.com/100965426/226499451-7f319dbb-db7e-477c-bc9a-157b9468c525.gif)
