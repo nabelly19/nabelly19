@@ -15,7 +15,7 @@ My Name is `Anabelly Montibeller` and I`m studying hard to be a Programer!
 # Skills 👊
  
 ![jojo](https://github.com/nabelly19/nabelly19/assets/100965426/03284c15-e25d-4f23-85f7-054418a3f100)
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,cpp,js,html,css,react,mongo)](https://skillicons.dev)
 __________________________________________________________________________________________
 ![nabelly19 GitHub stats](https://github-readme-stats.vercel.app/api?username=nabelly19&show_icons=true&theme=transparent)
 
