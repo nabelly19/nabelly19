@@ -9,7 +9,7 @@ My Name is `Anabelly Montibeller` and I`m studying hard to be a Programer!
 
 - 💻 I appreciate everything related to technology, from the oldest to the current ones;
 
-- 🤍 Very important additional information: I love to watch Jojo's Bizarre Adventure and play video-games.
+- 🤍 Very important additional information: I love to watch Jojo's Bizarre Adventure.
 
   
 # Skills 👊
