@@ -5,7 +5,7 @@
 What? Sorry, I'm kidding with you!
 My Name is `Anabelly Montibeller` and I`m studying hard to be a Programer!
 
-- 🤓 I am in the first year of Computer Science college;
+- 🤓 I am in the third year of Computer Science college;
 
 - 💻 I appreciate everything related to technology, from the oldest to the current ones;
 
