@@ -1,27 +1,72 @@
-# Hi folks! 👋
+<p align="center">
+  <img alt="WaveBackground" src="https://capsule-render.vercel.app/api?type=waving&height=135&color=gradient&text=Welcome%20everyone&fontColor=FFFFFF&fontSize=65"/>
+</p>
 
-### `Who am I? That's a secret I'll never tell`
+<h3 align="center">
+  I'm Anabelly Montibeller, nice to meet you! 👋
+</h3>
 
-What? Sorry, I'm kidding with you!
-My Name is `Anabelly Montibeller` and I`m studying hard to be a Programer!
+<br/>
 
-- 🤓 I am in the third year of Computer Science college;
+<p align="center">
+  <img alt="Skills: python, angular, .net, html, css, js, react, mysql" src="https://skillicons.dev/icons?i=python,cs,angular,net,html,css,js,react,mongo,mysql"/>
+</p>
 
-- 💻 I appreciate everything related to technology, from the oldest to the current ones;
+<br/>
 
-- 🤍 Very important additional information: I love to watch Jojo's Bizarre Adventure.
+### About me and my interests 🔍
 
-  
-# Skills 👊
+```yaml
+name: "Anabelly Montibeller"
+located_in: "Curitiba, Brazil"
+
+education:
+  - "Bachelor’s in Computer Science (graduating)"
+  - "Technical Course in Systems Analysis and Development"
+
+fields_of_interests:
+  - "Web Development"
+  - "UI/UX"
+  - "Artificial Intelligence"
+  - "Machine Learning"
+  - "Cybersecurity"
+
+technical_background:
+  - "Robotic Systems Course"
+
+currently_learning:
+  - "Cloud Computing"
+
+hobbies:
+  - "Music"
+  - "Movies"
+  - "Walk around the city"
+  - "Travelling"
+```
+### Tech Stack ⚡
+
+<p>
+  <img alt="Skills: python, c, cpp, c#, angular, .net, html, css, js, react, mongo, mysql, figma, node, vscode" src="https://skillicons.dev/icons?i=python,cs,angular,net,html,css,js,react,mongo,mysql"/>
+</p>
+
+### Look aroung my GitHub history!
+
+> Among projects, studies and activities...
+
+<br/>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabelly19&show_icons=true&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabelly19&layout=compact&theme=transparent"/>
+</div>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
  
-![jojo](https://github.com/nabelly19/nabelly19/assets/100965426/03284c15-e25d-4f23-85f7-054418a3f100)
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,cpp,js,html,css,react,mongo)](https://skillicons.dev)
-__________________________________________________________________________________________
-![nabelly19 GitHub stats](https://github-readme-stats.vercel.app/api?username=nabelly19&show_icons=true&theme=transparent)
 
-## Contact me 💥
+## Contact me 🤝
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabelly-sthephany-paiva-montibeller-ab1ab5235/)
-__________________________________________________________________________________________
+
 
 
 
