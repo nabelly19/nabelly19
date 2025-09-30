@@ -61,7 +61,7 @@ hobbies:
 </div>
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nabelly19/nabelly19/blob/output/github-contribution-grid-snake.svg)
  
 
 ## Contact me 🤝
