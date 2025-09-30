@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  <img alt="Skills: python, angular, .net, html, css, js, react, mysql" src="https://skillicons.dev/icons?i=python,cs,angular,net,html,css,js,react,mongo,mysql"/>
+  <img alt="Skills: python, angular, .net, html, css, js, react, mysql" src="https://skillicons.dev/icons?i=python,angular,net,html,css,js,react,mysql"/>
 </p>
 
 <br/>
@@ -46,7 +46,7 @@ hobbies:
 ### Tech Stack ⚡
 
 <p>
-  <img alt="Skills: python, c, cpp, c#, angular, .net, html, css, js, react, mongo, mysql, figma, node, vscode" src="https://skillicons.dev/icons?i=python,cs,angular,net,html,css,js,react,mongo,mysql"/>
+  <img alt="Skills: python, c, cpp, c#, angular, .net, html, css, js, react, mongo, mysql, figma, node, vscode" src="https://skillicons.dev/icons?i=python,flask,tensorflow,c,cpp,cs,angular,net,html,css,js,react,nodejs,mongo,mysql,figma,vscode,git"/>
 </p>
 
 ### Look aroung my GitHub history!
