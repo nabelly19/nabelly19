@@ -14,7 +14,7 @@
 
 <br/>
 
-### About me and my interests 🔍
+### About me and my interests 👩‍💻
 
 ```yaml
 name: "Anabelly Montibeller"
@@ -49,7 +49,7 @@ hobbies:
   <img alt="Skills: python, c, cpp, c#, angular, .net, html, css, js, react, mongo, mysql, figma, node, vscode" src="https://skillicons.dev/icons?i=python,flask,tensorflow,c,cpp,cs,angular,net,html,css,js,react,nodejs,mongo,mysql,figma,vscode,git"/>
 </p>
 
-### Look aroung my GitHub history!
+### Look around my GitHub history!
 
 > Among projects, studies and activities...
 
