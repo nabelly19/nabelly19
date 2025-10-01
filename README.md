@@ -60,14 +60,7 @@ hobbies:
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabelly19&layout=compact&theme=transparent"/>
 </div>
 
-<figure align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nabelly19/nabelly19/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabelly19/nabelly19/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nabelly19/nabelly19/output/github-contribution-grid-snake.svg" />
-  </picture>
-  <figcaption>GitHub Contributions Snake Animation</figcaption>
-</figure>
+![snake gif](https://github.com/nabelly19/nabelly19/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact me 🤝
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabelly-sthephany-paiva-montibeller-ab1ab5235/)
