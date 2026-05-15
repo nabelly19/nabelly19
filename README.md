@@ -93,8 +93,7 @@ Built to strengthen concepts of scalable backend applications and system communi
 <br/>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nabelly19&show_icons=true&theme=transparent"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabelly19&layout=compact&theme=transparent"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nabelly19&theme=tokyonight"/>
 </div>
 
 <picture>
