@@ -25,11 +25,11 @@ education:
   - "Technical Course in Systems Analysis and Development"
 
 fields_of_interests:
-  - "Web Development"
-  - "UI/UX"
+  - "Backend Development"
+  - "Full Stack Development"
+  - "System Integration"
+  - "Software Architecture"
   - "Artificial Intelligence"
-  - "Machine Learning"
-  - "Cybersecurity"
 
 technical_background:
   - "Robotic Systems Course"
@@ -43,6 +43,43 @@ hobbies:
   - "Walk around the city"
   - "Travelling"
 ```
+
+<br/>
+
+### 🚀 Featured Projects
+
+#### 🧠 MazeAI
+Artificial intelligence project focused on maze generation and pathfinding algorithms using C#.  
+Implemented DFS, BFS, Dijkstra and A* algorithms, applying graph theory and heuristic search concepts.
+
+🔗 https://github.com/nabelly19/MazeAI
+
+---
+
+#### 🍽️ My Restaurant API
+Full-stack restaurant management system built with .NET APIs and Angular.  
+Includes order management flow, frontend-backend integration and REST API development.
+
+🔗 https://github.com/nabelly19/My-Restaurant-API
+
+---
+
+#### 🏢 Parco Backend
+Backend application developed with ASP.NET and PostgreSQL.  
+Focused on REST API architecture, service organization and backend development best practices.
+
+🔗 https://github.com/nabelly19/parco-backend
+
+---
+
+#### ⚙️ API Project
+Backend-focused project for API development and service integration.  
+Built to strengthen concepts of scalable backend applications and system communication.
+
+🔗 https://github.com/nabelly19/api-project
+
+<br/>
+
 ### Tech Stack ⚡
 
 <p>
